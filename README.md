@@ -1,6 +1,6 @@
 # bloc_test
 
-A new Flutter project.
+Bloc practice using open weather API.
 
 ## Getting Started
 
